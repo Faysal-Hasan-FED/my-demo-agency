@@ -1,0 +1,8 @@
+.hero-right{
+    background-color: #c1d4f157;
+    padding: 25px;
+}
+
+li::marker{
+    color:rgba(22, 196, 22, 0.924);
+}

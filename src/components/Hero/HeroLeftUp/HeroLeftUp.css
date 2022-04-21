@@ -1,0 +1,17 @@
+.hero-left-up{
+    background-image: url(https://i.ibb.co/KKRFm8b/glasses-near-laptop-reflect-light-from-screen-dark-copy-space-169016-14893.webp);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.custom-name{
+    color: gray;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.custom-name:hover{
+    color: blueviolet;
+}
